@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# cmu arctic
+CMU_ARCTIC/
+
+# 音声、画像
+*.wav
+*.png
+
